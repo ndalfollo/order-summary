@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+* {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 500;
+}
+
+/* F O O T E R */
+.attribution { 
+    font-size: 11px; 
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
